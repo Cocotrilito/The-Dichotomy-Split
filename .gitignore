@@ -1,0 +1,18 @@
+# --- ARCHIVOS PESADOS (Como el que te dio error) ---
+*.exe
+*.zip
+*.msi
+LIBS/
+
+# --- PLATFORMIO / ARDUINO ---
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# --- KICAD (Archivos temporales y backups) ---
+*-backups/
+*.lck
+*.bak
+_autosave-*
+fp-info-cache
