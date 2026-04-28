@@ -9,6 +9,12 @@ ears, this is the same song I used to play back and back again 4 months ago, and
 me really curious, and I started learning, and now here I am, well I wanted to learn about ZMK in my macropad I only did the QMK firmware but I really wanted to tryout ZMK, and was really cool!, also I wanted to make the projects that I thought were impossible
 and to the Isaac of 4 months ago... Thanks!, you have really changed your life, and to the future Isaac... How are you doing? was it all worth it?... thanks for reading if you did! <3
 
+## zmk repo
+[ZMK code](https://github.com/Cocotrilito/zmk-config)
+## layout
+<img width="544" height="280" alt="image" src="https://github.com/user-attachments/assets/b4e6cfa6-49e8-4dc3-8c3b-cafb5470bbaa" />
+
+
 ## Schematic Overview
 ![Schematic left](images/Schematic.png)
 
@@ -47,3 +53,5 @@ Thanks for reading! made possible with [STASIS by HackClubbers](http://stasis.ha
 
 ## final thanks :3
 By cocotrilo made with luv (THIS ONE WAS WITH philosophical meaning) keep the grind <3
+
+
