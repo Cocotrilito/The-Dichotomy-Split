@@ -1,5 +1,13 @@
-
 # The -Dichotomy- Split
+
+<p align="center">
+  <img src="BUILD FINAL FIRMWARE PICTURES ETC/gifbefore.gif" width="700" alt="demo">
+</p>
+
+![final build](<BUILD FINAL FIRMWARE PICTURES ETC/finalbuild.jpeg>)
+
+[Download Final Firmware](<BUILD FINAL FIRMWARE PICTURES ETC/FinalFirmware.zip>)
+
 An Split keyboard, created to understand new things like matrix and wireless things, and also from the feeling of being split, Im trying to become someone new but im still stuck in this hole, A tool for the transition... a bridge out of the hole.
 
 ## The reason behind this project...
@@ -20,11 +28,18 @@ and to the Isaac of 4 months ago... Thanks!, you have really changed your life, 
 
 ## PCB
 
-![PCB OVERVIEW](images/b.cu.png)
-![Render](<images/pcb render.png>)
-![PCB layout](<images/PCB layout.png>)
-![PCB Top](images/F.cu.png)
-![PCB Back](images/backcu.png)
+<table>
+  <tr>
+    <td align="center"><img src="images/PCB BACK.png" width="300"/><br><b>PCB OVERVIEW</b></td>
+    <td align="center"><img src="images/pcb render.png" width="300"/><br><b>Render</b></td>
+    <td align="center"><img src="images/PCB layout.png" width="300"/><br><b>PCB layout</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/F.cu.png" width="300"/><br><b>PCB Top</b></td>
+    <td align="center"><img src="images/backcu.png" width="300"/><br><b>PCB Back</b></td>
+    <td></td>
+  </tr>
+</table>
 
 
 ## CAD Render
@@ -53,5 +68,3 @@ Thanks for reading! made possible with [STASIS by HackClubbers](http://stasis.ha
 
 ## final thanks :3
 By cocotrilo made with luv (THIS ONE WAS WITH philosophical meaning) keep the grind <3
-
-
