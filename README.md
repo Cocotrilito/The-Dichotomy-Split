@@ -9,6 +9,12 @@ ears, this is the same song I used to play back and back again 4 months ago, and
 me really curious, and I started learning, and now here I am, well I wanted to learn about ZMK in my macropad I only did the QMK firmware but I really wanted to tryout ZMK, and was really cool!, also I wanted to make the projects that I thought were impossible
 and to the Isaac of 4 months ago... Thanks!, you have really changed your life, and to the future Isaac... How are you doing? was it all worth it?... thanks for reading if you did! <3
 
+## zmk repo
+[ZMK code](https://github.com/Cocotrilito/zmk-config)
+## layout
+<img width="544" height="280" alt="image" src="https://github.com/user-attachments/assets/b4e6cfa6-49e8-4dc3-8c3b-cafb5470bbaa" />
+
+
 ## Schematic Overview
 ![Schematic left](images/Schematic.png)
 
@@ -18,6 +24,7 @@ and to the Isaac of 4 months ago... Thanks!, you have really changed your life, 
 ![Render](<images/pcb render.png>)
 ![PCB layout](<images/PCB layout.png>)
 ![PCB Top](images/F.cu.png)
+![PCB Back](images/backcu.png)
 
 
 ## CAD Render
@@ -27,14 +34,15 @@ and to the Isaac of 4 months ago... Thanks!, you have really changed your life, 
 
 ## BOM
 
-| Item | Qty | Est. Price | Link |
-| :--- | :---: | :---: | :--- |
-| **Seeed Studio XIAO nRF52840** | 2 | $38.00 | [Amazon](https://www.amazon.com/gp/product/B09T9VVQG7/) |
-| **XDA Profile PBT Keycaps** | 50 | $12.00 | [AliExpress](https://www.aliexpress.us/item/3256810402164930.html) |
-| **Mechanical Switches (Tactile)** | 50 | $8.00 | [AliExpress](https://www.aliexpress.us/item/3256811652574937.html) |
-| **SK6812 MINI-E RGB LEDs** | 100 | $7.00 | [AliExpress](https://www.aliexpress.us/item/3256810305129996.html) |
-| **Custom PCB Fabrication** | 1 set | $15.00 | [JLCPCB / PCBWay] |
-| **Misc (Diodes, Battery, Sockets)** | 1 set | $15.00 | [Various] |
+| Name | Purpose | Qty | Total Cost (USD) | Link |
+| :--- | :--- | :---: | :---: | :--- |
+| **1N4148W SOD-123** | Efficiency for pins in matrix, also avoids ghosting | 1 (set) | $1.31 | [AliExpress](https://www.aliexpress.us/item/3256810466885186.html) |
+| **XDA Profile PBT Keycaps** | Ergonomics and feel | 1 (set) | $11.83 | [AliExpress](https://www.aliexpress.us/item/3256810402164930.html) |
+| **Outemu Silent Switches** | Mechanical input (Tactile/Silent) | 1 (set) | $7.55 | [AliExpress](https://www.aliexpress.us/item/3256811652574937.html) |
+| **LEDs SK6812 MINI-E** | Per-key RGB lighting (WS2812B compatible) | 1 (set) | $4.83 | [AliExpress](https://www.aliexpress.us/item/3256810305129996.html) |
+| **PCB Manufacturing** | Custom designed PCBs for the split layout | 1 (set) | $14.60 | [JLCPCB] |
+| **Seeed Studio XIAO nRF52840** | Main microcontrollers with BLE for wireless | 2 | $37.98 | [Amazon](https://www.amazon.com/gp/product/B09T9VVQG7/) |
+
 
 ## SPECIAL THANKS!
 Thanks for reading! made possible with [STASIS by HackClubbers](http://stasis.hackclub.com/)
@@ -45,3 +53,5 @@ Thanks for reading! made possible with [STASIS by HackClubbers](http://stasis.ha
 
 ## final thanks :3
 By cocotrilo made with luv (THIS ONE WAS WITH philosophical meaning) keep the grind <3
+
+
